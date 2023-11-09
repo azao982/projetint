@@ -1,0 +1,48 @@
+
+  img{
+    width: 100%;
+    height:95%;
+  }
+  .centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  section{
+    background-color: rgb(84, 84, 99);
+  }
+  .x:hover{
+    transform: scale(1.1);
+    transition: .5s;
+  }
+  .yz{
+    height: 196px;
+  }
+  .abc{
+    height: 340px;
+  }
+  .yax{
+    margin-top: 25px;
+  }
+  .yx{
+    height: 196px;
+  }
+  .hy{
+    height: 340px;
+  }
+  .hi{
+    height: 340px;
+  }
+  .av{
+    height: 340px;
+  }
+  .bt{
+    height: 340px;
+  }
+  .aq{
+    height: 340px;
+  }
+  i{
+background-color: black;
+  }
+  
