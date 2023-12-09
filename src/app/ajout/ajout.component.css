@@ -5,7 +5,15 @@ input{
     color: brown;
 }
 label{
-    color: rgb(91, 91, 92);
+    color:black;
     font-weight: bold;
     font-size: 20px;
 }
+body {
+    background-image: url('/assets/app.jpg');
+    background-size: cover;
+    height: 110vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }  
